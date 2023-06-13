@@ -28,4 +28,16 @@
 
 -   survey tools
 
--   
+## File organisation
+
+- naming conventions
+
+## Folder organisation
+
+- templates
+  - BSc / MSc students
+- example hirarchies
+  
+- locations
+- naming conventions
+- 
