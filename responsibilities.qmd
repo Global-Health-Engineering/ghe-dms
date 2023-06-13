@@ -1,0 +1,28 @@
+# Responsibilities
+
+## Group principles 
+
+- nothing is stored locally on a hard drive
+- everything is a project (no project related files are stored in folders of individuals)
+- 
+
+## Individual tasks
+
+- Staff
+  - Professor
+  - Senior Scientist
+  - Open Science Specialist / Data Steward
+  - Administrative assistant
+  - Scientific Assistant
+  - Visiting guests
+
+- Students
+  - visiting students (mobility students)
+  - BSc
+  - MSc
+  - PhD
+
+## Approval
+
+- Sharing research data: As our approach is "open by default" it requires approval to not share research data.
+

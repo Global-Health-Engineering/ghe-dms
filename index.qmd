@@ -1,9 +1,5 @@
 # Preface {.unnumbered}
 
-This is a Quarto book.
+At the Global Health Engineering (GHE) group at ETH Zurich we are committed to applying open science principles to ensure our research is reproducible, verifiable, and reusable for the greatest possible impact. Good practice in research data management (RDM) forms a key element in conforming to these principles. We are guided by the principle of [open by default](https://en.wikipedia.org/wiki/Open_by_default) and apply it to all our research products.
 
-To learn more about Quarto books visit <https://quarto.org/docs/books>.
-
-```{r}
-1 + 1
-```
+This data management strategy (DMS) is designed to assist students and faculty at GHE in defining responsibilities, rules and guidelines for the coordination of daily and long-term data management.

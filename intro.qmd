@@ -1,9 +1,15 @@
 # Introduction
 
-This is a book created from markdown and executable code.
+## Data at GHE
 
-See @knuth84 for additional discussion of literate programming.
+- small (few MBs)
+- tabular
+- non-sensitive
+- topics
+    - waste management
+    - sanitation
+    - air quality
 
-```{r}
-1 + 1
-```
+## Workflow
+
+- GHE RDM workflow

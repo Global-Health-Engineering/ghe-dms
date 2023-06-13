@@ -1,0 +1,31 @@
+# Data collection
+
+## Types
+
+-   quantitative data
+
+    -   experimental data
+
+    -   survey data
+
+    -   sensor data
+
+    -   
+
+-   qualitative data
+
+    -   observations
+
+    -   interview transcripts
+
+-   photos
+
+-   videos
+
+## Tools
+
+-   spreadsheet-based
+
+-   survey tools
+
+-   
