@@ -1,0 +1,29 @@
+# Data Storage
+
+## GitHub
+
+### R Packages
+
+
+## Google Drive
+
+The Google Workspace is used for ...
+
+### ghe-group
+
+### ghe-supervision
+
+- tables folder
+- supervision-main
+
+
+
+### ghe-management
+
+### ghe-projects
+
+### ghe-teaching
+
+## Sharing
+
+##
